@@ -1,7 +1,7 @@
 @extends('layout.index')
 @section('content')
     <br>
-    <h2>Datatable Product</h2>
+    <h2>Datatable Product Barang</h2>
     <div class="card">
         <div class="card-body">
             <div class="table-responsive">
